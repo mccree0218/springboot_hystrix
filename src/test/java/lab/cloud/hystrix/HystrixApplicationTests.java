@@ -11,7 +11,6 @@ public class HystrixApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("hello world");
 	}
 
 }
